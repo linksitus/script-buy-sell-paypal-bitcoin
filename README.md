@@ -14,7 +14,7 @@ pass admin123
 
 currency exchanger script Paypal Exchanger v3.0. With this Paypal Exchanger script you can create your own e-currency exchange website.
 
-The script supports exchanges between: PayPal, Skrill, WebMoney, Payeer, Perfect Money, AdvCash, OKPay, Entromoney, SolidTrust Pay, Neteller, UQUID, BTC-e, Yandex Money, QIWI, Payza, Bitcoin, Litecoin, Dogecoin, Dash, Peercoin, Ethereum, TheBillioncoin, Bank Transfer, Ewallet,Western Union, Moneygram.
+The script supports exchanges between: PayPal, Skrill, WebMoney, Payeer, Perfect Money, AdvCash, OKPay, Entromoney, SolidTrust Pay, Neteller, UQUID, BTC-e, Yandex Money, QIWI, Payza, Bitcoin, Litecoin, Dogecoin, Dash, Ethereum, Bank Transfer, Ewallet,Western Union, Moneygram.
 
 The main features of the script:
  Auto install lisensi and 2 code work
