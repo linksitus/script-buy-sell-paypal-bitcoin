@@ -6,7 +6,9 @@ DOWNLOAD  https://b-tc.my.id
 
 Sample Web https://to.b-tc.my.id
 admin page https://to.b-tc.my.id/admin
-user edmin
+
+user admin
+
 pass admin123
 
 currency exchanger script Paypal Exchanger v3.0. With this Paypal Exchanger script you can create your own e-currency exchange website.
