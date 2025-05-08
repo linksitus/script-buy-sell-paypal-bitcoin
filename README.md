@@ -1,54 +1,87 @@
-<header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
 
-# GitHub Pages
+Paypal Bitcoin Exchanger v3.0 currency exchanger script
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+DOWNLOAD  https://b-tc.my.id
 
-</header>
+Sample Web https://to.b-tc.my.id
+admin page https://to.b-tc.my.id/admin
+user edmin
+pass admin123
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+currency exchanger script Paypal Exchanger v3.0. With this Paypal Exchanger script you can create your own e-currency exchange website.
 
-## Step 1: Enable GitHub Pages
+The script supports exchanges between: PayPal, Skrill, WebMoney, Payeer, Perfect Money, AdvCash, OKPay, Entromoney, SolidTrust Pay, Neteller, UQUID, BTC-e, Yandex Money, QIWI, Payza, Bitcoin, Litecoin, Dogecoin, Dash, Peercoin, Ethereum, TheBillioncoin, Bank Transfer, Ewallet,Western Union, Moneygram.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+The main features of the script:
+ Auto install lisensi and 2 code work
+1. Bootstrap 3 responsive design
+2. JQuery interface for sharing
+3. Jquery calculator to calculate the amount fast
+4. Multilanguage system
+5. Support All Currency Ewallet and Crypto
+6. Automatically Convert Price Calculation
+7. Automatically Forward Paypal payment
+8. Affiliate program
+9. Reviews
+10. Limiting information
+11. Gateways Surcharge
+12. Track system for heat exchangers
+13. Actions of the administrator of the notification of new exchange requests Status
+14. Operator in the header
+15 steps to verify your account
+16. SSQL security
+17. Good user interface
+18. Email notifications for each exchange status
+19. Option: Administrator may require the user to have an exchange account
+20. Wallet system
+21. System of deposits
+22. Send money from the wallet to the user on the site
+23. Transactions System
+24. Profit System
+25. Withdrawal
+26. Referral system
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+3 steps of account verification:
 
-### :keyboard: Activity: Enable GitHub Pages
+1. Confirmation by email
+2. Document verification (which require approval by the document administrator) Mobile verification number (Using the Nexmo.com API)
+3.Can be enabled / disabled for each check and if disable all, the user will be activated after registration
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+Operator capabilities:
 
-<footer>
+1. Can handle exchanges
+2. Can give referrals profit
+3. Can drive feedback
+4. Documents can be approved
+5. Can manage withdrawals and more.
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Administrator functions:
 
----
+1. Full dashboard administrator
+2. Can handle exchanges
+3. Can manage users
+4. Can manage withdrawal
+5. Can drive feedback
+6. Can control Gateways
+7. Can manage exchange rates and more.
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Gateways control:
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+1. Management currency (up to 160 world currencies - USD, RUB, EUR, GBP, etc.)
+2. The minimum amount for exchange
+3. Maximum amount for exchange reserve
+4. Option Customs fee
+5. Additional fee option and more.
 
-</footer>
+Requirements for the script:
+
+Apache 2.2 Server
+PHP 5.4 + or 7.4 alt
+MySQL Database Server
+Apache mod_rewrite ON
+PHP MySQLi extension
+PHP allow_url_fopen ON
+PHP curl extension
+
+free support instalation
